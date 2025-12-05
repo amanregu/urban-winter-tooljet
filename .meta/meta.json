@@ -6,5 +6,13 @@
     "lastpushDate": "2025-12-01T10:14:28.069Z",
     "gitVersionName": "v1",
     "lastCommitUser": "aman "
+  },
+  "bcc6e274-df5f-4a50-aa79-5da80272ccf1": {
+    "gitAppName": "asd1222",
+    "lastCommitMessage": " v1 Version of app asd1222 promoted from development to staging",
+    "gitVersionId": "5d4af9be-fe02-4802-98c5-636a5c4e9105",
+    "lastpushDate": "2025-12-05T20:35:21.306Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "aman "
   }
 }
