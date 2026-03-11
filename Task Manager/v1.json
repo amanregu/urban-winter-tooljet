@@ -1,0 +1,259 @@
+{
+  "app": [
+    {
+      "definition": {
+        "appV2": {
+          "id": "167447d3-03ef-458d-8a1c-1436169558cd",
+          "type": "front-end",
+          "name": "Task Manager",
+          "slug": "167447d3-03ef-458d-8a1c-1436169558cd",
+          "isPublic": false,
+          "isMaintenanceOn": false,
+          "icon": "table",
+          "organizationId": "f9260344-ed8a-4c36-add3-eb5d260b147c",
+          "currentVersionId": null,
+          "userId": "f94cdcfb-05fc-422d-9834-a47907f75370",
+          "workflowApiToken": null,
+          "workflowEnabled": false,
+          "isInitialisedFromPrompt": true,
+          "appGeneratedFromPrompt": false,
+          "appBuilderMode": "visual",
+          "aiGenerationMetadata": {
+            "threadId": "cc550552-c069-4d22-8b44-39711741c867",
+            "interrupt": true
+          },
+          "createdAt": "2026-03-05T03:18:24.490Z",
+          "creationMode": "DEFAULT",
+          "updatedAt": "2026-03-05T04:12:14.379Z",
+          "__loaded": true,
+          "editingVersion": {
+            "id": "55978564-a005-448c-bd63-a9fa15b8b570",
+            "name": "v1",
+            "definition": null,
+            "globalSettings": {
+              "appInMaintenance": false,
+              "canvasMaxWidth": 100,
+              "canvasMaxWidthType": "%",
+              "canvasMaxHeight": 2400,
+              "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+              "backgroundFxQuery": "",
+              "appMode": "light"
+            },
+            "pageSettings": null,
+            "showViewerNavigation": true,
+            "homePageId": "f9b7416e-3f10-42e5-8cf0-04f5fb0497c1",
+            "appId": "167447d3-03ef-458d-8a1c-1436169558cd",
+            "currentEnvironmentId": "fa7511c0-7e30-4d7b-b840-4525d263ce99",
+            "promotedFrom": null,
+            "parentVersionId": null,
+            "status": "DRAFT",
+            "description": null,
+            "publishedAt": null,
+            "releasedAt": null,
+            "createdAt": "2026-03-05T03:18:24.792Z",
+            "updatedAt": "2026-03-05T03:18:24.489Z"
+          },
+          "components": [
+            {
+              "id": "c70694ba-b7cf-404d-b8f6-79cd1aa684f5",
+              "name": "button1",
+              "type": "Button",
+              "pageId": "f9b7416e-3f10-42e5-8cf0-04f5fb0497c1",
+              "parent": null,
+              "properties": {
+                "text": {
+                  "value": "Button"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "tooltip": {
+                  "value": ""
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "#FFFFFF"
+                },
+                "borderColor": {
+                  "value": "var(--cc-primary-brand)"
+                },
+                "loaderColor": {
+                  "value": "var(--cc-surface1-surface)"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "backgroundColor": {
+                  "value": "var(--cc-primary-brand)"
+                },
+                "iconColor": {
+                  "value": "var(--cc-default-icon)"
+                },
+                "direction": {
+                  "value": "left"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "icon": {
+                  "value": "IconAlignBoxBottomLeft"
+                },
+                "iconVisibility": {
+                  "value": false
+                },
+                "type": {
+                  "value": "primary"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2026-03-11T17:11:45.852Z",
+              "updatedAt": "2026-03-11T17:11:45.852Z",
+              "layouts": [
+                {
+                  "id": "48448c84-d8a7-4fdf-82b1-17e7e56dceda",
+                  "type": "desktop",
+                  "top": 220,
+                  "left": 27,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "c70694ba-b7cf-404d-b8f6-79cd1aa684f5",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2026-03-11T17:11:45.852Z"
+                },
+                {
+                  "id": "0b2c92d5-b5f6-41d6-babd-d9aaaf4b0b62",
+                  "type": "mobile",
+                  "top": 220,
+                  "left": 27,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "c70694ba-b7cf-404d-b8f6-79cd1aa684f5",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2026-03-11T17:11:45.852Z"
+                }
+              ]
+            }
+          ],
+          "pages": [
+            {
+              "id": "f9b7416e-3f10-42e5-8cf0-04f5fb0497c1",
+              "name": "Home",
+              "handle": "home",
+              "index": 1,
+              "disabled": null,
+              "hidden": null,
+              "icon": null,
+              "createdAt": "2026-03-05T03:18:24.489Z",
+              "updatedAt": "2026-03-05T03:18:26.716Z",
+              "autoComputeLayout": true,
+              "appVersionId": "55978564-a005-448c-bd63-a9fa15b8b570",
+              "pageGroupIndex": 1,
+              "pageGroupId": null,
+              "isPageGroup": false,
+              "url": null,
+              "openIn": "new_tab",
+              "type": "default",
+              "appId": ""
+            }
+          ],
+          "events": [],
+          "dataQueries": [],
+          "dataSources": [],
+          "appVersions": [
+            {
+              "id": "55978564-a005-448c-bd63-a9fa15b8b570",
+              "name": "v1",
+              "definition": null,
+              "globalSettings": {
+                "appInMaintenance": false,
+                "canvasMaxWidth": 100,
+                "canvasMaxWidthType": "%",
+                "canvasMaxHeight": 2400,
+                "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+                "backgroundFxQuery": "",
+                "appMode": "light"
+              },
+              "pageSettings": null,
+              "showViewerNavigation": true,
+              "homePageId": "f9b7416e-3f10-42e5-8cf0-04f5fb0497c1",
+              "appId": "167447d3-03ef-458d-8a1c-1436169558cd",
+              "currentEnvironmentId": "fa7511c0-7e30-4d7b-b840-4525d263ce99",
+              "promotedFrom": null,
+              "parentVersionId": null,
+              "status": "DRAFT",
+              "description": null,
+              "publishedAt": null,
+              "releasedAt": null,
+              "createdAt": "2026-03-05T03:18:24.792Z",
+              "updatedAt": "2026-03-05T03:18:24.489Z"
+            }
+          ],
+          "appEnvironments": [
+            {
+              "id": "fa7511c0-7e30-4d7b-b840-4525d263ce99",
+              "organizationId": "f9260344-ed8a-4c36-add3-eb5d260b147c",
+              "name": "development",
+              "isDefault": false,
+              "priority": 1,
+              "enabled": true,
+              "createdAt": "2024-03-19T12:15:39.765Z",
+              "updatedAt": "2024-03-19T12:15:39.765Z"
+            },
+            {
+              "id": "4c54883a-e2dd-4028-b174-d0a8642441c1",
+              "organizationId": "f9260344-ed8a-4c36-add3-eb5d260b147c",
+              "name": "staging",
+              "isDefault": false,
+              "priority": 2,
+              "enabled": true,
+              "createdAt": "2024-03-19T12:15:39.765Z",
+              "updatedAt": "2024-03-19T12:15:39.765Z"
+            },
+            {
+              "id": "8c53ad69-1293-4389-bfe2-a22716566f98",
+              "organizationId": "f9260344-ed8a-4c36-add3-eb5d260b147c",
+              "name": "production",
+              "isDefault": true,
+              "priority": 3,
+              "enabled": true,
+              "createdAt": "2024-03-19T12:15:39.765Z",
+              "updatedAt": "2024-03-19T12:15:39.765Z"
+            }
+          ],
+          "dataSourceOptions": [],
+          "schemaDetails": {
+            "multiPages": true,
+            "multiEnv": true,
+            "globalDataSources": true
+          },
+          "modules": []
+        }
+      }
+    }
+  ],
+  "tooljet_version": "3.20.119-cloud-lts"
+}
