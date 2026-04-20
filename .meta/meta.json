@@ -56,10 +56,10 @@
     "lastCommitUser": "aman "
   },
   "8b1822e8-4d38-4fcc-b8f4-310f0bf7b853": {
-    "gitAppName": "HHC ED",
-    "lastCommitMessage": " v1.3 Version of app HHC ED promoted from development to staging",
+    "gitAppName": "HHC",
+    "lastCommitMessage": "App HHC ED is renamed to HHC",
     "gitVersionId": "b22a2e57-31c6-4597-b1e7-63a0eb48f564",
-    "lastpushDate": "2026-04-20T05:31:41.816Z",
+    "lastpushDate": "2026-04-20T05:38:26.418Z",
     "gitVersionName": "v1.3",
     "lastCommitUser": "aman "
   }
