@@ -57,10 +57,10 @@
   },
   "8b1822e8-4d38-4fcc-b8f4-310f0bf7b853": {
     "gitAppName": "HHC ED",
-    "lastCommitMessage": " v1 Version of app HHC ED promoted from development to staging",
-    "gitVersionId": "28722cf3-4bfa-4cac-8343-6c17ab364dd0",
-    "lastpushDate": "2026-04-20T04:57:18.699Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": " v1.2 Version of app HHC ED promoted from development to staging",
+    "gitVersionId": "1fd79cdc-45a9-46f5-8056-12ad84b54dd9",
+    "lastpushDate": "2026-04-20T05:21:52.469Z",
+    "gitVersionName": "v1.2",
     "lastCommitUser": "aman "
   }
 }
