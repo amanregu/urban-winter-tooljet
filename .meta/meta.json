@@ -73,10 +73,10 @@
   },
   "31a468df-a9a8-40c5-aa03-db1031f69d57": {
     "gitAppName": "Xsa1",
-    "lastCommitMessage": " v1 Version of app Xsa1 promoted from development to staging",
-    "gitVersionId": "88a97ef2-eed5-4e65-9089-088bb943ca3a",
-    "lastpushDate": "2026-05-06T01:43:43.139Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": " v1.1 Version of app Xsa1 promoted from development to staging",
+    "gitVersionId": "a8313d06-5a58-4bde-ac0b-12fe36b0371e",
+    "lastpushDate": "2026-05-06T01:47:44.066Z",
+    "gitVersionName": "v1.1",
     "lastCommitUser": "aman "
   }
 }
