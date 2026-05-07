@@ -81,10 +81,10 @@
   },
   "dc112fe9-98ed-4561-92f3-d8ed8c699838": {
     "gitAppName": "Test1222",
-    "lastCommitMessage": " v1.1 Version of app Test1222 promoted from development to staging",
-    "gitVersionId": "c593a6f4-f19f-430f-9dac-ecf805038014",
-    "lastpushDate": "2026-05-07T12:11:46.402Z",
-    "gitVersionName": "v1.1",
+    "lastCommitMessage": "test commit",
+    "gitVersionId": "426bc6d2-d8e1-4539-967a-5b02e5273ee3",
+    "lastpushDate": "2026-05-07T12:12:34.450Z",
+    "gitVersionName": "v1.11",
     "lastCommitUser": "aman "
   }
 }
