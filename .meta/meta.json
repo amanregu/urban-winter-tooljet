@@ -86,5 +86,13 @@
     "lastpushDate": "2026-05-07T12:12:34.450Z",
     "gitVersionName": "v1.11",
     "lastCommitUser": "aman "
+  },
+  "69555b35-eaf7-44e8-8aca-42c71b5a98da": {
+    "gitAppName": "Test GitSync - 2",
+    "lastCommitMessage": "add button",
+    "gitVersionId": "1b00df7f-9b07-4a09-9c30-05905d5aa1fa",
+    "lastpushDate": "2026-05-11T18:47:51.670Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "aman "
   }
 }
