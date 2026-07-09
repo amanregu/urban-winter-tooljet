@@ -129,10 +129,10 @@
   },
   "6d022c59-398f-4cc7-962f-b5a8508c922f": {
     "gitAppName": "te1",
-    "lastCommitMessage": " v1 Version of app te1 promoted from development to staging",
-    "gitVersionId": "2dcf5025-33ea-44d4-a8d0-4d1c9694f7a9",
-    "lastpushDate": "2026-07-08T14:07:48.180Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "this123",
+    "gitVersionId": "3adddd88-5043-41cd-a138-8c4f7df5aee3",
+    "lastpushDate": "2026-07-09T04:09:58.350Z",
+    "gitVersionName": "v1.1",
     "lastCommitUser": "aman "
   }
 }
